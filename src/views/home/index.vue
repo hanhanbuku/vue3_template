@@ -15,4 +15,8 @@ const handleClickSetStore = () => {
   <button @click="handleClickSetStore">修改store的数据</button>
 </template>
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+h1 {
+  margin-bottom: 20px;
+}
+</style>

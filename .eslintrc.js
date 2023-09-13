@@ -39,7 +39,7 @@ module.exports = {
     "no-unused-vars": "off",
     "no-console": "off",
     "no-debugger": "off",
-    'vue/multi-word-component-names': "off",
-    "@typescript-eslint/no-explicit-any": ["off"]
+    "vue/multi-word-component-names": "off",
+    "@typescript-eslint/no-explicit-any": ["off"],
   },
 }
